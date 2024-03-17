@@ -37,8 +37,8 @@ function gerarContrato() {
         <p>Nome da cidade: Cáceres</p>
         <p>Dia, mês e ano da solicitação: ${dia}/${mes}/${ano} às ${horas}:${minutos}</p>
         <br>
-        <p>Assinatura Contratante ________________________</p>
-        <p>Assinatura Contratada ________________________</p>
+        <p>Assinatura Contratante <br><br>________________________<br><br></p>
+        <p>Assinatura Contratada <br><br>________________________<br><br></p>
     `;
 
     document.getElementById('contrato').innerHTML = contratoHTML;
