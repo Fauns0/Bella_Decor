@@ -31,7 +31,7 @@ function gerarContrato() {
         d) Até 03 (três) meses antes do evento, será devolvido 75% da importância paga;<br>
         e) Até 02 (dois) meses antes do evento, será devolvido 70% da importância paga.<br>
         Parágrafo único. Em outros casos, não será devolvida nenhuma importância paga, salvo se o evento não se realizar por caso fortuito ou força maior, ocasião em que será devolvido o percentual de 50% do valor contratado.</p>
-        <h2>Das disposições finais</h2>
+        <br><br><br><br><br><br><h2>Das disposições finais</h2>
         <p>As partes elegem o foro da comarca de especificar "cidade/UF" com exclusão de qualquer outro, por mais privilegiado que seja, para resolver qualquer litígio que porventura venha a surgir em razão do presente contrato.</p>
         <p>E, por estarem justas e contratadas, as partes assinam este instrumento, em duas vias de igual teor, com as testemunhas Nome completo das testemunhas, que a tudo presenciaram.</p>
         <p>Nome da cidade: Cáceres</p>
